@@ -1,22 +1,10 @@
 # {{.Name}}
 
-{{.Name}} is a Python library for dealing with word pluralization.
+{{.Name}} is an Aynihub agnostic library for dealing with word pluralization.
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install {{.Name}}.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-`Here put your usage snippet`
-
-```python
-print("foobar")
-```
 
 ## Contributing
 
